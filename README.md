@@ -48,7 +48,7 @@ Mis soluciones a los terroríficos retos de [Halloween.dev](https://www.hallowee
 				<td align="center"><img src="./assets/3.png" height="40"/></td>
 				<td><a href="https://www.halloween.dev/retos/2024/3">🛌 Escapa de la pesadilla de Freddy</a></td>
 				<td align="center"><img src="./assets/normal.png" title="Normal" height="24"/></td>
-				<td align="center">0</td>
+				<td align="center">300</td>
 				<td align="center"><a href="./2024/03.md">Ver</a></td>
 			</tr>
 			<tr>
@@ -71,3 +71,29 @@ Mis soluciones a los terroríficos retos de [Halloween.dev](https://www.hallowee
 	</table>
 
 <!-- </details> -->
+
+<br/>
+
+## Más retos
+
+<table align="center">
+	<thead>
+		<tr>
+			<th>
+				<a href="https://github.com/cosmoart/adventJS" target="_blank" rel="noopener noreferrer">
+					<img src="./assets/adventjs.avif" title="AdventJs"/>
+				</a>
+			</th>
+			<th>
+				<a href="https://github.com/cosmoart/codember" target="_blank" rel="noopener noreferrer">
+					<img src="./assets/codember.avif" title="Codember"/>
+				</a>
+			</th>
+			<th>
+				<a href="https://github.com/cosmoart/HalloweenDev" target="_blank" rel="noopener noreferrer">
+					<img src="./assets/halloween.avif" title="HalloweenDev"/>
+				</a>
+			</th>
+		</tr>
+	</thead>
+</table>
