@@ -40,7 +40,7 @@ Mis soluciones a los terroríficos retos de [Halloween.dev](https://www.hallowee
 				<td align="center"><img src="./assets/2.png" height="40"/></td>
 				<td><a href="https://www.halloween.dev/retos/2024/2">🧟 Horda de zombies</a></td>
 				<td align="center"><img src="./assets/easy.png" title="Fácil" height="24"/></td>
-				<td align="center">0</td>
+				<td align="center">460</td>
 				<td align="center"><a href="./2024/02.md">Ver</a></td>
 			</tr>
 			<tr>
