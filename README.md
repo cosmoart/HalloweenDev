@@ -64,7 +64,7 @@ Mis soluciones a los terroríficos retos de [Halloween.dev](https://www.hallowee
 				<td align="center"><img src="./assets/5.png" height="40"/></td>
 				<td><a href="https://www.halloween.dev/retos/2024/5">▲ Terror en Silent Hill</a></td>
 				<td align="center"><img src="./assets/hard.png" title="Difícil" height="24"/></td>
-				<td align="center">0</td>
+				<td align="center">190</td>
 				<td align="center"><a href="./2024/05.md">Ver</a></td>
 			</tr>
 		</tbody>
